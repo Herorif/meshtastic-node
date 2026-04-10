@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "GLiM": {
+      "source": "Herorif/GLiM",
+      "sourceType": "github",
+      "computedHash": "90273f648d9e29c7938975c09e2fa975620351a3df7e938defff869912235a63"
+    }
+  }
+}
