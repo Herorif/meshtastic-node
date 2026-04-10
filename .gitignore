@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# --- Meshtastic/Hardware Specifics ---
+.pio/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.hex
+*.uf2
+
+# --- Local Secrets ---
+config.yaml
+credentials.h
+.env
